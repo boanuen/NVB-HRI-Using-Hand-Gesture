@@ -1,12 +1,9 @@
-# Điều khiển TurtleBot 4 bằng cử chỉ tay (Hand Gesture Control)
+# Giao tiếp phi ngôn ngữ và điều khiển TurtleBot 4 bằng cử chỉ tay.
 
-Hệ thống nhận diện cử chỉ tay qua webcam bằng MediaPipe, điều khiển TurtleBot 4 trong Gazebo thông qua ROS 2 Humble.
-
-**Bài tập 6** — Giao tiếp phi ngôn ngữ và điều khiển TurtleBot 4 bằng cử chỉ tay.
 
 ## Video Demo
 
-> [Link video demo](https://drive.google.com/...)
+> [Link video demo]([https://drive.google.com/...](https://drive.google.com/file/d/1yewN0D45Vj8mNhrkKvzxoZ5Q48aUw4YV/view?usp=sharing))
 
 ## Kiến trúc hệ thống
 
