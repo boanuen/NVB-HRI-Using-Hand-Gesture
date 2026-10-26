@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+install/
+log/
+*.png
+*.jpg
+*.jpeg
+*.pt
+.vscode/
+.idea/
+.DS_Store
